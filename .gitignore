@@ -1,0 +1,10 @@
+## IDE
+.idea
+
+## composer
+composer.lock
+vendor
+
+## npm
+node_modules
+package-lock.json
